@@ -1,4 +1,4 @@
-package com.spring_address_book.AddressBook.controller;
+package com.spring_address_book.addressbook.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
